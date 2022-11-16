@@ -3,6 +3,12 @@
 
 
 ## Project setup
+
+### Environments
+ - Development environment - dev branch
+ - Staging environment - stage branch
+ - Production environment - prod branch
+
 ```bash
 # Create stage and Dev branches.
 git branch stage 
