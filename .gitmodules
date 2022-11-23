@@ -1,3 +1,6 @@
 [submodule "remonitor-admin-front"]
 	path = remonitor-admin-front
 	url = https://github.com/MosesSoftEng/remonitor-admin-front.git
+[submodule "remonitor-backend-aws"]
+	path = remonitor-backend-aws
+	url = https://github.com/MosesSoftEng/remonitor-backend-aws.git
