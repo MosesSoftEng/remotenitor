@@ -18,6 +18,12 @@ git branch -a
 
 git checkout dev
 
+# Add admin front end submodule
+git submodule add -f  https://github.com/MosesSoftEng/remonitor-admin-front.git
+
+# Add aws backend submodule
+git submodule add -f  https://github.com/MosesSoftEng/remonitor-backend-aws.git
+
 ```
 
 # :computer: Tasks
