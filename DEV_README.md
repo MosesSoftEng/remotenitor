@@ -25,6 +25,9 @@ git submodule add -f  https://github.com/MosesSoftEng/remonitor-admin-front.git
 # Add aws backend submodule
 git submodule add -f  https://github.com/MosesSoftEng/remonitor-backend-aws.git
 
+# Add desktop submodule
+git submodule add -f https://github.com/MosesSoftEng/remonitor-client-desktop.git
+
 ```
 
 # :man: Author and Credits.
