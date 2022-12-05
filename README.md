@@ -1,13 +1,13 @@
-# :book: Rmonitor Project for ALX program
-## 
+# :book: Remonitor Project.
 
+Remonitor is a service to allow an admin to monitor multiple groups of devices (examples: employees, students and children). The service enables the admin to get user's device usage stats, login logout times and screenshots of the device screen at set intervals for monitioring.
 
 ## Project setup
 
 ### Environments
  - Development environment - dev branch
  - Staging environment - stage branch
- - Production environment - prod branch
+ - Production environment - git pull branch
 
 ```bash
 # Create stage and Dev branches.
