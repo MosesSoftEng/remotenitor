@@ -1,32 +1,23 @@
 # :book: Remonitor Project.
-
+![Remonitor dash](images/reminitor-dash-groups.png)
 Remonitor is a service to allow an admin to monitor multiple groups of devices (examples: employees, students and children). The service enables the admin to get user's device usage stats, login logout times and screenshots of the device screen at set intervals for monitioring.
 
-## Project setup
+## Project setup.
+### Setup backend.
+1. Deploy node.js backend in AWS Lambda and configure DynamoDB. Backend code can be obtained in the repo; []().
+2. Create DynamoDB databases.
 
-### Environments
- - Development environment - dev branch
- - Staging environment - stage branch
- - Production environment - git pull branch
+### setup frontend.
+1. Deploy node.js backend in AWS S3. Backend code can be obtained in the repo; []().
+2. Configure the frontend to link with the backend.
+3. Access the app and create an account.
+4. Create a group and add a user, user credentials will be auto generated.
 
+### Setup client.
+Download the client desktop application and login with users credentials generated in backend setup.
 
-### Create repos
-```bash
-# Create stage and Dev branches.
-git branch stage 
-git branch dev
-
-git branch -a
-
-git checkout dev
-
-# Add admin front end submodule
-git submodule add -f  https://github.com/MosesSoftEng/remonitor-admin-front.git
-
-# Add aws backend submodule
-git submodule add -f  https://github.com/MosesSoftEng/remonitor-backend-aws.git
-
-```
+## Licensing
+No license to use the project as a client. Lincense required for project usage as admin.
 
 # :man: Author and Credits.
 This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
