@@ -7,7 +7,7 @@ Remonitor is a service to allow an admin to monitor multiple groups of devices (
 ### Environments
  - Development environment - dev branch
  - Staging environment - stage branch
- - Production environment - prod branch
+ - Production environment - git pull branch
 
 
 ### Create repos
