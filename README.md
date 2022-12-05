@@ -4,11 +4,11 @@ Remonitor is a service to allow an admin to monitor multiple groups of devices (
 
 ## Project setup.
 ### Setup backend.
-1. Deploy node.js backend in AWS Lambda and configure DynamoDB. Backend code can be obtained in the repo; []().
+1. Deploy node.js backend in AWS Lambda and configure DynamoDB. Backend code can be obtained in the repo; [server backend](https://github.com/MosesSoftEng/remonitor-backend-aws.git).
 2. Create DynamoDB databases.
 
 ### setup frontend.
-1. Deploy node.js backend in AWS S3. Backend code can be obtained in the repo; []().
+1. Deploy node.js backend in AWS S3. Backend code can be obtained in the repo; [admin frontend](https://github.com/MosesSoftEng/remonitor-admin-front.git).
 2. Configure the frontend to link with the backend.
 3. Access the app and create an account.
 4. Create a group and add a user, user credentials will be auto generated.
