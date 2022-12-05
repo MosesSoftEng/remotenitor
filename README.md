@@ -7,8 +7,10 @@ Remonitor is a service to allow an admin to monitor multiple groups of devices (
 ### Environments
  - Development environment - dev branch
  - Staging environment - stage branch
- - Production environment - git pull branch
+ - Production environment - prod branch
 
+
+### Create repos
 ```bash
 # Create stage and Dev branches.
 git branch stage 
@@ -25,13 +27,6 @@ git submodule add -f  https://github.com/MosesSoftEng/remonitor-admin-front.git
 git submodule add -f  https://github.com/MosesSoftEng/remonitor-backend-aws.git
 
 ```
-
-# :computer: Tasks
-## []()
-
-# :books: References
-1. []()
-
 
 # :man: Author and Credits.
 This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
