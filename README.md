@@ -1,6 +1,18 @@
 # :book: Remonitor Project.
 ![Remonitor dash](images/reminitor-dash-groups.png)
-Remonitor is a service to allow an admin to monitor multiple groups of devices (examples: employees, students and children). The service enables the admin to get user's device usage stats, login logout times and screenshots of the device screen at set intervals for monitioring.
+Remonitor is a service that allows an admin to monitor activities of a device or groups of devices from a central dashboard. The activities include: device session (logins and logouts), inputs activity (keypresses, mouse clicks, mouse movement), screenshot of device screen and more at a set interval. Data obtained can be used to monitor productivity and engagements.
+
+## Features Lists.
+1.	Session stats; Log in and log out times, duration of login.
+2.	Keyboard stats; Number of key presses for a given duration of time.
+3.	Mouse stats: Clicks, mouse distance.
+4.	Device screenshots.
+5.	App screentime stats; Duration spent on software.
+
+## Example use cases.
+1. Employees monitoring; productivity.
+2. Students' monitoring; productivity, engagement, test monitoring.
+3. Self-monitoring; productivity.
 
 ## Project setup.
 ### Setup backend.
