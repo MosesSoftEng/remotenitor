@@ -1,5 +1,5 @@
 # :book: Remonitor Project.
-![Remonitor dash](images/reminitor-dash-groups.png)
+![Remonitor dash](remotenitor-dash-screenshot-2023-01-10.png)
 Remonitor is a service to allow an admin to monitor multiple groups of devices (examples: employees, students and children). The service enables the admin to get user's device usage stats, login logout times and screenshots of the device screen at set intervals for monitioring.
 
 ## Project setup.
@@ -17,7 +17,7 @@ Remonitor is a service to allow an admin to monitor multiple groups of devices (
 Download the client desktop application and login with users credentials generated in backend setup.
 
 ## Licensing
-No license to use the project as a client. Lincense required for project usage as admin.
+No license to use the project as a client. License required for project usage as admin.
 
 # :man: Author and Credits.
 This project was done by [SE. Moses Mwangi](https://github.com/MosesSoftEng). Feel free to get intouch with me;
