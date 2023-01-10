@@ -1,5 +1,5 @@
 # :book: Remonitor Project.
-![Remonitor dash](remotenitor-dash-screenshot-2023-01-10.png)
+![Remonitor dash](images/remotenitor-dash-screenshot-2023-01-10.png)
 Remonitor is a service to allow an admin to monitor multiple groups of devices (examples: employees, students and children). The service enables the admin to get user's device usage stats, login logout times and screenshots of the device screen at set intervals for monitioring.
 
 ## Project setup.
